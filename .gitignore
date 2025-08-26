@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+# External libraries
+lib/openzeppelin-contracts/
+lib/murky/

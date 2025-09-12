@@ -14,5 +14,6 @@ docs/
 .env
 
 # External libraries
-lib/openzeppelin-contracts/
-lib/murky/
+lib/
+
+zkout/
